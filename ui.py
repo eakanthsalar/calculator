@@ -203,4 +203,3 @@ class Gui:
         else:
             ans = str(ans)
             self.text.insert(0, ans)
-            #  hii
